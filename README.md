@@ -1,0 +1,1 @@
+# yataka.github.io
