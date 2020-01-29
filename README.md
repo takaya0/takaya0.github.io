@@ -1,6 +1,6 @@
 ## Welcome to yataka"s GitHub Pages
-My name is Takaya KOIZIZUMI. I am a student of Ritsumeikan University. 
-My major is Mathematics, espesially Mathmatical Information. 
+My name is Takaya KOIZUMI. I am a student of Ritsumeikan University. 
+My major is Mathematics, especially Mathmatical Information. 
 
 ### Markdown
 
