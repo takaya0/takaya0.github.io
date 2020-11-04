@@ -11,7 +11,7 @@ title-heading: false
 
 ## Contents
 
-#### <a href="/AMP">数理工学勉強会</a>
+#### <a href="/AMP/AMP">数理工学勉強会</a>
 学内の数理工学セミナーでの使用したスライドが置いてあります.
 
 #### <a href="/pdfs/published_pdf_lists">個人的に書いたpdf</a>
