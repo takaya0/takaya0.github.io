@@ -17,8 +17,7 @@ MathJax.Hub.Config({
 
 <ol reversed>
 
-
-## ***2019年度***
+<h2>　見出しtest</h2>
 <li><p><strong><a href="/pdfs/main.pdf">2019年度数学研究会方程</a></strong></p>
 
   <p>2019年度の数学研究会方程のきじ. GANの学習不安定性について書いた. </p>
