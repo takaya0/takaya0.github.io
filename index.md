@@ -2,9 +2,10 @@
 title-heading: false
 ---
 
-# 自己紹介
+# TBA
 <!-- [sample pdf](pdf/sample_diagram.pdf) -->
 
+## 自己紹介
 立命館大学数理科学科4回生の小泉孝弥と言います.
 卒業研究では,　多様体上の最適化について学んでいます.
 
