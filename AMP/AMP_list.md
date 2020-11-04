@@ -18,7 +18,7 @@ Ritsの数理工学勉強会の講演一覧
 <ol reversed>
 
 
-<li><p><strong><a href="AMP/pdf/20201106_tutorial.pdf">Machine Learning tutorial</a></strong></p>
+<li><p><strong><a href="/AMP/pdf/20201106_tutorial.pdf">Machine Learning tutorial</a></strong></p>
 
   <p>機械学習についての基礎事項をまとめたもの</p>
 
