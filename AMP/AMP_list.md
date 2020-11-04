@@ -13,7 +13,7 @@ MathJax.Hub.Config({
 
 
 ## **数理工学勉強会**
-学内の数理工学勉強会の講演一覧 
+Ritsの数理工学勉強会の講演一覧 
 
 <ol reversed>
 
