@@ -12,19 +12,19 @@ MathJax.Hub.Config({
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
 
 
-## **数理工学勉強会**
-学内の数理工学勉強会の講演一覧 
+## **pdf一覧**
+今まで書いてきたpdf一覧. (年別順) 
 
 <ol reversed>
 
 
-<li><p><strong><a href="AMP/pdf/main.pdf">Machine Learning tutorial</a></strong></p>
+### 2019年度
+<li><p><strong><a href="pdfs/main.pdf">2019年度数学研究会方程</a></strong></p>
 
-  <p>機械学習についての基礎事項をまとめたもの</p>
+  <p>2019年度の数学研究会方程のきじ. GANの学習不安定性について書いた. </p>
 
   <ul>
-    <li>講演日: 2020/11/06</li>
-    <li>スライド公開日: 2020/11/04 </li>
+    <li>pdf公開日: 2020/11/04 </li>
   </ul>
 </li>
 
