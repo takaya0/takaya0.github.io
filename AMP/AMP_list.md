@@ -26,7 +26,6 @@ Ritsの数理工学勉強会の講演一覧
     <li>スライド公開日: TBA </li>
   </ul>
 </li>
-</ol>
 
 
 <li><p><strong><a href="/AMP/20201106_tutorial.pdf">Machine Learning tutorial</a></strong></p>
@@ -39,15 +38,6 @@ Ritsの数理工学勉強会の講演一覧
   </ul>
 </li>
 
-<li><p><strong><a href="/AMP/20201127_GANs.pdf">TBA</a></strong></p>
-
-  <p>敵対的生成ネットワークについて開設したスライド.</p>
-
-  <ul>
-    <li>講演日: TBA</li>
-    <li>スライド公開日: TBA </li>
-  </ul>
-</li>
 </ol>
 
 **[ホームに戻る](/index)**
