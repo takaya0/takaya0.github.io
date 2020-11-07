@@ -2,7 +2,6 @@
 title-heading: false
 ---
 
-# TBA
 <!-- [sample pdf](pdf/sample_diagram.pdf) -->
 
 ## 自己紹介
