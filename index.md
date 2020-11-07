@@ -11,7 +11,7 @@ title-heading: false
 
 ## Contents
 
-#### <a href="/Applied_Mathematics/AMP_list">数理工学勉強会</a>
+#### <a href="/Applied_Mathematics/AMP_slide_list">数理工学勉強会</a>
 Ritsの数理工学セミナーでの使用したスライドが置いてあります.
 
 #### <a href="/pdfs/published_pdf_lists">今まで書いたpdf</a>
