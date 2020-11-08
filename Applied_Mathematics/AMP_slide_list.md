@@ -30,7 +30,7 @@ Ritsの数理工学勉強会の講演一覧
 
 <li><p><strong><a href="/Applied_Mathematics/20201106_tutorial.pdf">Machine Learning tutorial</a></strong></p>
 
-  <p>機械学習についての基礎事項を開設したスライド.</p>
+  <p>機械学習についての基礎事項を解説したスライド.</p>
 
   <ul>
     <li>講演日: 2020/11/06</li>
