@@ -17,9 +17,18 @@ Ritsの数理工学勉強会の講演一覧
 
 <ol reversed>
 
+<li><p><strong><a href="/Applied_Mathematics/20210108_submodular.pdf">MSFMP and Greedy Algorithm</a></strong></p>
+
+  <p>単調劣モジュラ関数最大化問題を解説したスライド.</p>
+
+  <ul>
+    <li>講演日: 2021/1/8</li>
+    <li>スライド公開日: 2021/1/8</li>
+  </ul>
+</li>
 <li><p><strong><a href="/Applied_Mathematics/20201127_GANs.pdf">Generative Adversarial Networks and its applications</a></strong></p>
 
-  <p>敵対的生成ネットワークについて解説したスライド.</p>
+  <p>敵対的生成ネットワーク(Generative Adversarial Networks)について解説したスライド.</p>
 
   <ul>
     <li>講演日: 2020/11/27</li>
