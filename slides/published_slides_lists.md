@@ -12,8 +12,8 @@ MathJax.Hub.Config({
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
 
 
-## **pdf一覧**
-外部公演などで使用したslide一覧(年別順.) 
+## **slide一覧**
+公演で使用したslide一覧(年別順.) 
 
 <ol reversed>
 
